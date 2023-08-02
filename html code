@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>External CSS</title>
+<!-- This link is to the index.css file. Click the index.css tab above to view it. -->
+<link href="index.css" rel="stylesheet">
+</head>
+<body>
+<div class="border-black">
+<p class="border-black">Border with external CSS</p>
+<span class="border-black">Border with external CSS</span>
+</div>
+</body>
+</html>
